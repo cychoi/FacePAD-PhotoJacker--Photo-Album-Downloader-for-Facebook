@@ -1,0 +1,38 @@
+
+English (US)
+PHOTOJACKER IS THE NEW FACEPAD
+Due to "Trademark Infringement" on Facebook's IP, I was forced to change the name of FacePAD. 
+More information can be found here: http://bit.ly/photojacker-facepad
+
+NEW TUTORIAL VIDEO
+Find out how to setup and use PhotoJacker by watching this tutorial video (http://video.photojacker.com/).
+
+SETUP/PREFERENCES (0m:27s mark in the tutorial video)
+(1) Make sure that THIRD PARTY COOKIES are ENABLED in Firefox's Options/Preferences (under the Privacy tab). 
+
+DOWNLOAD ALBUMS (YOURS, FRIENDS') (1m:17s mark in the tutorial video)
+(1) Right-click on the name/link of the desired Facebook album and click the DOWNLOAD ALBUM WITH PHOTOJACKER option. 
+(2) A window will pop-up asking you to choose a directory/folder where you would like the photos to be stored. 
+(3) The photos will then be downloaded and renamed in sequential, ascending order, where the order is determined by the age of the photo.
+
+DOWNLOAD ALBUMS (TAGGED PHOTOS) (2m:42s mark in the tutorial video)
+(1) First, left-click on any picture that you or your friend is tagged in. Let that page with the single picture load.
+(2) At the top left of the page that loaded, there should be an option that says Photos of User, where User should be replaced with the word 'Me' or your friend's name. 
+(3) Right-click on the Photos of Me/User link and click the DOWNLOAD ALBUM WITH PHOTOJACKER option. 
+(4) A window will pop-up asking you to choose a directory/folder where you would like the photos to be stored. 
+(5) The photos will then be downloaded and renamed in sequential, ascending order, where the order is determined by the age of the photo.
+(6) After every 200 photos, the destination-choosing popup will appear. Make sure to choose the same destination. This is an artifact of the code that has no elegant way of being removed (at the present time).
+
+DOWNLOAD ALBUMS (GROUP, EVENT, FANPAGE) (4m:24s mark in the tutorial video)
+(1) Left-click on the Photos tab in said group/event/fan-page. At the top, where it says SEE ALL PHOTOS, right-click on this link and click DOWNLOAD ALBUM WITH PHOTOJACKER option. 
+(2) A window will pop-up asking you to choose a directory/folder where you would like the photos to be stored. 
+(3) The photos will then be downloaded and renamed in sequential, ascending order, where the order is determined by the age of the photo.
+NOTE: ONLY THE FIRST 200 PHOTOS IN GROUP/EVENET/FAN-PAGE ALBUMS CAN BE DOWNLOADED. THIS IS A PROBLEM I CANNOT WORK AROUND AT THE MOMENT.
+
+FACEBOOK FAN PAGE
+Show your support, join our fan page here: http://www.facebook.com/photojackerapp
+
+FAQ/BUG/SUPPORT
+-For a list of known bugs and frequently asked questions, please visit: http://www.photojacker.com/faq.
+-Have a question? Contact me here: http://www.photojacker.com/contact. 
+-Bug reports and feature requests left in the comment's section of this page will be removed.
