@@ -1,0 +1,4 @@
+content facepad jar:chrome/facepad.jar!/content/
+overlay chrome://browser/content/browser.xul chrome://facepad/content/facepad.xul
+skin facepad classic/1.0 jar:chrome/facepad.jar!/skin/
+

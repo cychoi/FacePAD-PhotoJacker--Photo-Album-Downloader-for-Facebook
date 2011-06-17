@@ -1,0 +1,5 @@
+<!ENTITY  download.text     "Download Album with PhotoJacker">
+<!ENTITY  support.text    "Support PhotoJacker Development">
+<!ENTITY  fp.text  "Which directory should PhotoJacker save this Facebook album to?">
+<!ENTITY  prefix1.text  "Set a Photo Prefix - PhotoJacker">
+<!ENTITY  prefix2.text  "What term would you like to prefix the downloaded photos with? (Example: familyalbum1)">
